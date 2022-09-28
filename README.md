@@ -36,9 +36,10 @@ A little exercise to get started with the specification phase of the software de
 A mobile application where friends and family can create private groups for sharing their daily lives or memories in different forms such as photos, texts, and videos. 
 
 ## User Requirements
-
 See instructions. Delete this line and place a list of your User Stories here.
 
 ## Activity Diagrams
-
+Activity Diagram 1: <br>
+User Requirement: As an international student, I want to message my friends and family abroad so that they know how I am doing.
+<img src="Activity Diagram 1.png"/>
 See instructions. Delete this line and place images of your UML Activity diagrams here.
