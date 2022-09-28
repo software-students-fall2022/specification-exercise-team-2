@@ -7,7 +7,6 @@ A little exercise to get started with the specification phase of the software de
 
 <a href="https://github.com/les5185"> Tiffany Lee</a>
 <a href="https://github.com/rachel0lehcar"> Rachel </a>
-<a href="https://github.com/mishaseo"> Misha Seo </a>
 <a href="https://github.com/les5185"> Elayza </a>
 
 ## Stakeholders
