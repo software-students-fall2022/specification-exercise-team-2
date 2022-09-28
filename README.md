@@ -14,7 +14,7 @@ A little exercise to get started with the specification phase of the software de
 
 ### Brian Park, a student at NYU 
 
-#### Goal:
+#### Goals/needs:
 
 1. Save memories such as photos, videos, or text shared with my friends and family. 
 2. Categorize those into groups and be able to store and retrieve easily anytime I want. 
@@ -22,7 +22,16 @@ A little exercise to get started with the specification phase of the software de
 4. Be able to see how my little sister is doing and how well she is growing up. 
 5. Be able to find and look back into memories easily without spending too much time organizing the drive or photo album. 
 
-#### 
+#### Problems/Frustrations
+
+1. Hard to find memories from my photo album since it stacked altogether.
+2. Hard to organize memories on alternative platforms like Google Drive or Dropbox.
+3. Alternative platforms such as Google Drive or Dropbox do not allow captions or texts on each photo or videos. 
+4. Hard to add each person in each Drive. 
+5. Hard to make groups for each memory.
+6. Alternative platforms such as Instagram or Facebook are mostly for public groups. 
+
+
 See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
 
 
