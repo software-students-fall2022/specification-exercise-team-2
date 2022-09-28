@@ -32,12 +32,8 @@ A little exercise to get started with the specification phase of the software de
 6. Alternative platforms such as Instagram or Facebook are mostly for public groups. 
 
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
-
-
 ## Product Vision Statement
-
-See instructions. Delete this line and place your Product Vision Statement here.
+A mobile application where friends and family can create private groups for sharing their daily lives or memories in different forms such as photos, texts, and videos. 
 
 ## User Requirements
 
