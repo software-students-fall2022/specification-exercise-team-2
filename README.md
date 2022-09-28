@@ -6,6 +6,8 @@ A little exercise to get started with the specification phase of the software de
 ## Team members
 
 <a href="https://github.com/les5185"> Tiffany Lee</a>
+<a href="https://github.com/mishaseo"> <br>Misha Seo</a>
+
 ## Stakeholders
 
 See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
