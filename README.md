@@ -16,15 +16,15 @@ A little exercise to get started with the specification phase of the software de
 
 #### Goal:
 
-##### 1. Save memories such as photos, videos, or text shared with my friends and family. <br>
-##### 2. Categorize those into groups and be able to store and retrieve easily anytime I want. 
+1. Save memories such as photos, videos, or text shared with my friends and family. 
+2. Categorize those into groups and be able to store and retrieve easily anytime I want. 
+3. Keep in contact with my friends and family abroad and let them know how I am doing. 
+4. Be able to see how my little sister is doing and how well she is growing up. 
+5. Be able to find and look back into memories easily without spending too much time organizing the drive or photo album. 
 
-##### 3. Keep in contact with my friends and family abroad and let them know how I am doing. 
-
-##### 4. Be able to see how my little sister is doing and how well she is growing up. 
-
-
+#### 
 See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+
 
 ## Product Vision Statement
 
