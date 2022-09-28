@@ -31,6 +31,22 @@ A little exercise to get started with the specification phase of the software de
 5. Hard to make groups for each memory.
 6. Alternative platforms such as Instagram or Facebook are mostly for public groups. 
 
+### Jenna Al Enazi, a student at Goldsmiths University of London
+
+#### Goals/Needs
+
+1. Save photos, videos, docs ect. with my friends and family offline. 
+2. Easy to use edit functionalities/ easily accessed shortcuts of diff templates. 
+3. Can be used by friends and family of all ages/ very user friendly. 
+4. Easily undo an upload or edit. 
+
+#### Problems/Frustrations 
+
+1. Difficulty sorting my images/docs in a time efficient way (organizational issues).
+2. Most applications with similar functionalities of this platform can be visually loud, making it difficult to use.
+3. Works offline, no one will miss out. 
+4. Templates provided to make editing easier for those with no editing skills (all ages). 
+
 
 ## Product Vision Statement
 A mobile application where friends and family can create private groups for sharing their daily lives or memories in different forms such as photos, texts, and videos. 
