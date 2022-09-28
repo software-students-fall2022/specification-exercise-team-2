@@ -7,8 +7,8 @@ A little exercise to get started with the specification phase of the software de
 
 <a href="https://github.com/les5185"> Tiffany Lee <br> </a>
 <a href="https://github.com/rachel0lehcar"> Rachel <br> </a>
-<a href="https://github.com/"> Elayza <br></a>
-<a href="https://github.com/mishaseo"> <br>Misha Seo</a>
+<a href="https://github.com/"> Elayza <br> </a>
+<a href="https://github.com/mishaseo"> Misha Seo <br></a>
 
 ## Stakeholders
 
