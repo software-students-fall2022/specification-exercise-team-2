@@ -55,7 +55,8 @@ A mobile application where friends and family can create private groups for shar
 See instructions. Delete this line and place a list of your User Stories here.
 
 ## Activity Diagrams
-Activity Diagram 1: <br>
-User Requirement: As an international student, I want to message my friends and family abroad so that they know how I am doing.
-<img src="Activity Diagram 1.png"/>
 See instructions. Delete this line and place images of your UML Activity diagrams here.
+
+## Clickable prototype
+Here is alink to the clickable prototype:</br>
+https://www.figma.com/proto/S0IjBli2c8KWGsw6zeHadl/Untitled?node-id=4%3A150&scaling=scale-down&page-id=0%3A1&starting-point-node-id=4%3A150&show-proto-sidebar=1
