@@ -56,5 +56,5 @@ See instructions. Delete this line and place a list of your User Stories here.
 See instructions. Delete this line and place images of your UML Activity diagrams here.
 
 ## Clickable prototype
-Here is alink to the clickable prototype:</br>
+Here is a link to the clickable prototype:</br>
 https://www.figma.com/proto/S0IjBli2c8KWGsw6zeHadl/Untitled?node-id=4%3A150&scaling=scale-down&page-id=0%3A1&starting-point-node-id=4%3A150&show-proto-sidebar=1
