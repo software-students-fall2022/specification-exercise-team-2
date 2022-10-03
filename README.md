@@ -34,8 +34,8 @@ A little exercise to get started with the specification phase of the software de
 
 #### Goals/Needs
 
-1. Be able to save photos, videos, docs etc. with my friends and family while offline. 
-2. Have easy to use edit functionalities, such as easily accessible shortcuts to different templates. 
+1. Be able to save photos, videos, docs etc. with my friends and family. 
+2. Edit privacy preferences for groups.
 3. Have it be user friendly for family and friends of all ages.
 4. Be able to easily undo an upload or edit. 
 
