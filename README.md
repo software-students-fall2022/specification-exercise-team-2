@@ -51,16 +51,17 @@ A mobile application where friends and family can create private groups for shar
 
 ## User Requirements
 
-1. As a college student, I want to be able to keep up with my friends from home so that we can update each other on our achievements and support each other, without the pressure to message each other all the time.
-2. As a grandmother who has many of our old family photos, I want a centralized area where I can share the memories I have collected over the years, so that my family can fill in the gaps.  
-3. As an older brother, I want a more private app so that I can see how my younger sister is doing in a more safe environment where she will not be exposed to the usual side effects of social media.
-4. As an organized college student, I want to be able to create channels for my project and be able to leave my opinions on what my group members add, so that similar media is easy to find and our opinions can be taken into account.
-5. As a college student who is part of messaging apps, I want an app that is more focused on sharing media so that I can keep that media organized and all in one easily accessible place, while separating them by friend groups. 
-6. As a daughter, I want an app that focuses on only uploading photos and media so that my older family members can participate and easily see the media that I want them to have.
-7. As a college student who is not too fond of social media, I want a space that feels more private so that I can keep up with my friends without the noise from other peoples posts and opinions.
-8. As a person who is part of very different social groups, I want to be able to decide which ones can share our photos publicly and which ones should be private so that I can accommodate the preferences the group members.
-9. As a college student who does not have much storage on my phone, I want a cloud-like place so that I can keep all of the media that my loved ones share with me.
-10. As a family member, I want to be able to let my family know my thoughts about the photos they collect so that we can connect and react to them together.
+1. As a university student, I want to keep up with those from my home country so that I am connected to them without having to communicate via calls/texts.
+2. As a user, I want to edit my profile so that my friends can find me easier.
+3. As a grandmother, I want a centralized area where I can share memories I have collected over the years, so that I can look back at life.  
+4. As an older brother, I want a more private app so that I can see how my younger sister is doing in a more safe environment where she will not be exposed to the usual side effects of social media.
+5. As a student, I want to create channels for my project, so that planning is in one place and easy to work out within a group. 
+7. As a user, I want to comment in a thread so that I can share my opinion and converse with group members.
+9. As a user, I want a private platform with my friends so so that I can keep up with them without the noise from random posts and opinions of the public.
+10. As a person who is part of very different social groups, I want to control the privacy of the group so that I can accommodate group member preferences.
+11. As a university student, I want a cloud-like place to upload my files so that my storage does not run out.
+12. As a family member, I want to be able to let my family know my thoughts about the photos they collect so that we can connect and react to them together.
+
 
 ## Activity Diagrams
 
@@ -70,19 +71,19 @@ Click diagrams for better view.
 
 As a user, I want to edit my profile so that my friends can find me easier.
 
-<a href="https://www.figma.com/file/u60JmzuMQxsi3rwK6cmESo/UML-Activity-Diagram-1?node-id=0%3A1"><img src="./img/UML1.jpg"/></a>
+<a href="https://www.figma.com/file/iTG5KCWmxeyVSL6qedbdrr/UML-Activity-Diagram-1?node-id=0%3A1"><img src="./img/UML1.jpg"/></a>
 
 #### UML 2
 
 As a user, I want to control the group settings so that the group is public to the world.
 
-<a href="https://www.figma.com/file/M2c2uzewUpNrtPbjWtpSBc/UML-Activity-Diagram-2?node-id=0%3A1"><img src="./img/UML2.jpg"/></a>
+<a href="https://www.figma.com/file/rhMqwga2I9dYjqEtrUIAx0/UML-Activity-Diagram-2?node-id=0%3A1"><img src="./img/UML2.jpg"/></a>
 
 #### UML 3 
 
 As a user, I want to create a new channel in a group so that everything is organized and easy to find.
 
-<a href="https://www.figma.com/file/rhMqwga2I9dYjqEtrUIAx0/Untitled?node-id=0%3A1"><img src="./img/UML3.jpg"/></a>
+<a href="https://www.figma.com/file/M2c2uzewUpNrtPbjWtpSBc/UML-Activity-Diagram-3?node-id=0%3A1"><img src="./img/UML3.jpg"/></a>
 
 ## Clickable prototype
 Here is a link to the clickable prototype:</br>
