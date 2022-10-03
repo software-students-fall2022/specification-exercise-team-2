@@ -51,7 +51,7 @@ A mobile application where friends and family can create private groups for shar
 
 ## User Requirements
 
-1. As a user, I want to create an account so that I am registered to use the app.
+1. As a user (new), I want to create an account so that I am registered to use the app.
 2. As a user, I want to log in, so that I can start using the app. 
 3. As a user, I want to edit my profile so that my friends can find me easier. 
 4. As a user (student), I want to create a portfolio group so that I can document work throughout the semester. 
