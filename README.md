@@ -50,7 +50,17 @@ A little exercise to get started with the specification phase of the software de
 A mobile application where friends and family can create private groups for sharing memories or the activities of their daily lives.
 
 ## User Requirements
-See instructions. Delete this line and place a list of your User Stories here.
+
+1. As a user, I want to create an account so that I am registered to use the app.
+2. As a user, I want to log in, so that I can start using the app. 
+3. As a user, I want to edit my profile so that my friends can find me easier. 
+4. As a user (student), I want to create a portfolio group so that I can document work throughout the semester. 
+5. As a user (mother), I want to create a group with family members so that we can store memories. 
+6. As a user, I want to search through my groups easily so that I dont waste time to upload.
+7. As a user, I want to comment in a thread so that I can share my opinion and converse with group members. 
+8. As a user, I want to create a new channel in a group so that everything is organized and easy to find.
+9. As a user, I want to control the group settings so that the group is public to the world.
+10. As a user (student), I want to leave a group so that I can join another for the next project.  
 
 ## Activity Diagrams
 See instructions. Delete this line and place images of your UML Activity diagrams here.
