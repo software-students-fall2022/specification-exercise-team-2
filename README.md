@@ -37,14 +37,12 @@ A little exercise to get started with the specification phase of the software de
 1. Be able to save photos, videos, docs etc. with my friends and family. 
 2. Edit privacy preferences for groups.
 3. Have it be user friendly for family and friends of all ages.
-4. Be able to easily undo an upload or edit. 
 
 #### Problems/Frustrations 
 
 1. Difficulty sorting my images/docs in a time efficient way (organizational issues).
 2. Most applications with similar functionalities to this platform can be visually loud, making it difficult to use.
-3. Other platforms do not work offline, so some miss out. 
-4. Templates are not often provided, which can make editing difficult for those with no editing skills (all ages). 
+3. Other communication/media platforms do not organize by topic within a group
 
 ## Product Vision Statement
 A mobile application where friends and family can create private groups for sharing memories or the activities of their daily lives.
