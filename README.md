@@ -75,13 +75,13 @@ As a user, I want to edit my profile so that my friends can find me easier.
 
 #### UML 2
 
-As a user, I want to control the group settings so that the group is public to the world.
+As a student, I want to create channels for my project so that planning is in one place and easy to work out within a group.
 
 <a href="https://www.figma.com/file/rhMqwga2I9dYjqEtrUIAx0/UML-Activity-Diagram-2?node-id=0%3A1"><img src="./img/UML2.png"/></a>
 
 #### UML 3 
 
-As a user, I want to create a new channel in a group so that everything is organized and easy to find.
+As a university student, I want a cloud like place to upload my files so that my storage doesnt run out. 
 
 <a href="https://www.figma.com/file/M2c2uzewUpNrtPbjWtpSBc/UML-Activity-Diagram-3?node-id=0%3A1"><img src="./img/UML3.png"/></a>
 
