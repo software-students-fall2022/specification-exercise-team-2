@@ -45,7 +45,7 @@ A little exercise to get started with the specification phase of the software de
 3. Other communication/media platforms do not organize by topic within a group
 
 ## Product Vision Statement
-A mobile application where friends and family can create private groups for sharing memories or the activities of their daily lives.
+A mobile application where friends and family can create private or public groups for sharing memories or the activities of their daily lives.
 
 ## User Requirements
 
