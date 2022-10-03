@@ -52,15 +52,15 @@ A mobile application where friends and family can create private groups for shar
 ## User Requirements
 
 1. As a college student, I want to be able to keep up with my friends from home so that we can update each other on our achievements and support each other, without the pressure to message each other all the time.
-2. As a grandmother who has many of our old family photos, I want a centralized area where I can share the memories I have collected over the years, and fill in the gaps with the other memories that my family has collected.  
-3. As an older brother, I want to be able to see how my younger sister is doing in a more safe environment where she will not be exposed to the usual side effects of social media.
+2. As a grandmother who has many of our old family photos, I want a centralized area where I can share the memories I have collected over the years, so that they can fill in the gaps.  
+3. As an older brother, I want a more private app so that I can see how my younger sister is doing in a more safe environment where she will not be exposed to the usual side effects of social media.
 4. As an organized college student, I want to be able to create channels for my project and be able to leave my opinions on what my group members add, so that similar media is easy to find and our opinions can be taken into account.
 5. As a college student who is part of messaging apps, I want an app that is more focused on sharing media so that I can keep them organized and all in one easily accessible place, while separating them by my friend groups. 
-6. As a daughter whose parents are not the most tech savvy, I want to be able to invite my older family members to a platform where they can focus only on uploading photos and media, and easily see the media that I want them to have.
-7. As a college student who is not too fond of social media, I want a space that feels more private without the noise from other peoples posts and opinions.
-8. As a person who is part of very different social groups, I want to be able to decide which groups can share our photos publicly and which groups I want to be private.
-9. As a college student who does not have much storage on my phone, I want a cloud-like place where I can keep all my media that my loved ones share with me.
-10. As a family member, I want to be able to let my family know my thoughts about the images they collect.
+6. As a daughter, I want an app that focuses on only uploading photos and media so that my older family members can participate and easily see the media that I want them to have.
+7. As a college student who is not too fond of social media, I want a space that feels more private so that I can keep up with my friends without the noise from other peoples posts and opinions.
+8. As a person who is part of very different social groups, I want to be able to decide which ones can share our photos publicly and which ones should be private so that I can accommodate their preferences.
+9. As a college student who does not have much storage on my phone, I want a cloud-like place so that I can keep all of my media that my loved ones share with me.
+10. As a family member, I want to be able to let my family know my thoughts about the photos they collect so that we can connect and react to them together.
 
 ## Activity Diagrams
 
