@@ -71,19 +71,19 @@ Click diagrams for better view.
 
 As a user, I want to edit my profile so that my friends can find me easier.
 
-<a href="https://www.figma.com/file/iTG5KCWmxeyVSL6qedbdrr/UML-Activity-Diagram-1?node-id=0%3A1"><img src="./img/UML1.jpg"/></a>
+<a href="https://www.figma.com/file/iTG5KCWmxeyVSL6qedbdrr/UML-Activity-Diagram-1?node-id=0%3A1"><img src="./img/UML1.png"/></a>
 
 #### UML 2
 
 As a user, I want to control the group settings so that the group is public to the world.
 
-<a href="https://www.figma.com/file/rhMqwga2I9dYjqEtrUIAx0/UML-Activity-Diagram-2?node-id=0%3A1"><img src="./img/UML2.jpg"/></a>
+<a href="https://www.figma.com/file/rhMqwga2I9dYjqEtrUIAx0/UML-Activity-Diagram-2?node-id=0%3A1"><img src="./img/UML2.png"/></a>
 
 #### UML 3 
 
 As a user, I want to create a new channel in a group so that everything is organized and easy to find.
 
-<a href="https://www.figma.com/file/M2c2uzewUpNrtPbjWtpSBc/UML-Activity-Diagram-3?node-id=0%3A1"><img src="./img/UML3.jpg"/></a>
+<a href="https://www.figma.com/file/M2c2uzewUpNrtPbjWtpSBc/UML-Activity-Diagram-3?node-id=0%3A1"><img src="./img/UML3.png"/></a>
 
 ## Clickable prototype
 Here is a link to the clickable prototype:</br>
